@@ -1,8 +1,8 @@
-export function Name() { return "QMK Keyboard"; }
+export function GMMK() { return "QMK Keyboard"; }
 export function Version() { return "1.1.9"; }
-export function VendorId() { return 0x0000; }
-export function ProductId() { return 0x0000; }
-export function Publisher() { return "WhirlwindFX"; }
+export function VendorId() { return 0x320f; }
+export function ProductId() { return 0x5044; }
+export function Publisher() { return "zailyf"; }
 export function Documentation(){ return "qmk/srgbmods-qmk-firmware"; }
 export function DeviceType() { return "keyboard"; }
 export function ConflictingProcesses() { return ["VIA.exe"]; }
